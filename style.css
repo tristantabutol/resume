@@ -1,0 +1,121 @@
+body {
+	color: black;
+	text-align: center;
+	background: skyblue;
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.mads {
+    background: aliceblue;
+    padding: 20px;
+    margin-bottom: 15px;
+}
+
+.maddy {
+    text-align: left;
+    color:lightblue;
+    background: white;
+    padding: 20px;
+    display: grid;
+    grid-gap: 40px;
+    grid-template-columns: 1fr 1fr;
+}
+
+.maddy h2 {
+    margin: 10px 10px 10px 10px;
+    text-align: center;
+    text-decoration: underline;
+    color:cadetblue;
+}
+
+
+.bish {
+    background: aliceblue;
+    padding: 20px;
+    margin-bottom: 15px;
+}
+
+.bishy {
+    text-align: left;
+    color:lightblue;
+    background: white;
+    padding: 20px;
+    display: grid;
+    grid-gap: 40px;
+    grid-template-columns: 1fr 1fr;
+}
+
+.bishy h2 {
+    margin: 10px 10px 10px 10px;
+    text-align: center;
+    text-decoration: underline;
+    color:cadetblue;
+}
+
+
+
+.tabs {
+    background: lightblue;
+    padding: 20px;
+    margin-bottom: 15px;
+}
+
+.tabuts {
+    text-align: left;
+    color:lightblue;
+    background: white;
+    padding: 20px;
+    display: grid;
+    grid-gap: 40px;
+    grid-template-columns: 1fr 1fr;
+}
+
+.tabuts h2 {
+    margin: 10px 10px 10px 10px;
+    text-align: center;
+    text-decoration: underline;
+    color:cadetblue;
+}
+
+.arnel {
+    background: lightblue;
+    padding: 20px;
+    margin-bottom: 15px;
+}
+
+.arnely {
+    text-align: left;
+    color:skyblue;
+    background: white;
+    padding: 20px;
+    display: grid;
+    grid-gap: 40px;
+    grid-template-columns: 1fr 1fr;
+}
+
+.arnely h2 {
+    margin: 10px 10px 10px 10px;
+    text-align: center;
+    text-decoration: underline;
+    color:cadetblue;
+}
+
+.resume {
+    background: aliceblue;
+    padding: 20px;
+    margin-bottom: 15px;
+}
+
+.resumes {
+    text-align: left;
+    color:skyblue;
+    background: white;
+    padding: 20px;
+    display: grid;
+    grid-gap: 40px;
+    grid-template-columns: 1fr 1fr;
+}
