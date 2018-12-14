@@ -25,6 +25,10 @@ a {
     grid-template-columns: 1fr 1fr;
 }
 
+h1 {
+	color: darkblue;
+}
+
 .maddy h2 {
     margin: 10px 10px 10px 10px;
     text-align: center;
